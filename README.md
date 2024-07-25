@@ -1,5 +1,7 @@
 ## Hi there 👋
-Hola que tal 🤔 
+Hola que tal 🤔
+<br>
+Soy estudiante de QA, mi equipo es el número 6 y estamos aprendiendo GIT y GitHub.
 <!--
 **testeando31/testeando31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
